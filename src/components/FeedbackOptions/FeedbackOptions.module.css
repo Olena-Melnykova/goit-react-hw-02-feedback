@@ -1,0 +1,23 @@
+.division {
+  display: flex; 
+}
+
+.button {
+  width: 150px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: rgb(86, 224, 224);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+  background-color: rgb(231, 159, 251);
+}
